@@ -1,0 +1,92 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="Execute" line="0" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="0x26914" group="Breakpoints" type="Breakpoint" state="2" filename="../ses" useHWbreakpoint="false"/>
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="vortex2_boot0" radix="16" sizeText="" addressText="0xFF000"/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="vortex2_boot0" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="vortex2_boot0" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="vortex2_boot0" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="vortex2_boot0"/>
+  <ProjectSessionItem path="vortex2_boot0;vortex2_boot0"/>
+  <ProjectSessionItem path="vortex2_boot0;vortex2_boot0;Application"/>
+  <ProjectSessionItem path="vortex2_boot0;vortex2_boot0;nRF_Libraries"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="vortex2_boot0" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="vortex2_boot0" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="vortex2_boot0" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="vortex2_boot0" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="224" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" debugPath="../../../main.c" selected="0" top="201" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/delay/nrf_delay.h" debugPath="../../../../../../components/libraries/delay/nrf_delay.h" selected="0" top="18" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="12" y="647" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../vortex2_radio.c" debugPath="../../../vortex2_radio.c" selected="0" top="617" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="38" y="50" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../vortex2_radio.h" debugPath="../../../vortex2_radio.h" selected="0" top="37" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="33" y="209" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../vortex2_usb.c" debugPath="../../../vortex2_usb.c" selected="1" top="199" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="4" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../vortex2_flash.c" debugPath="../../../vortex2_flash.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="77" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../vortex2_jump.c" debugPath="../../../vortex2_jump.c" selected="0" top="58" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="620" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/hal/nrf_gpio.h" debugPath="../../../../../../modules/nrfx/hal/nrf_gpio.h" selected="0" top="594" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="405" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/toolchain/cmsis/include/cmsis_gcc.h" debugPath="../../../../../../components/toolchain/cmsis/include/cmsis_gcc.h" selected="0" top="391" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../vortex2_flash.h" debugPath="../../../vortex2_flash.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="138" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/class/hid/generic/app_usbd_hid_generic.h" debugPath="../../../../../../components/libraries/usbd/class/hid/generic/app_usbd_hid_generic.h" selected="0" top="115" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1322" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/app_usbd.c" debugPath="../../../../../../components/libraries/usbd/app_usbd.c" selected="0" top="1304" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/class/hid/app_usbd_hid.c" debugPath="../../../../../../components/libraries/usbd/class/hid/app_usbd_hid.c" selected="0" top="63" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="287" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/class/hid/app_usbd_hid.h" debugPath="../../../../../../components/libraries/usbd/class/hid/app_usbd_hid.h" selected="0" top="263" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/app_usbd_class_base.h" debugPath="../../../../../../components/libraries/usbd/app_usbd_class_base.h" selected="0" top="267" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="197" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/app_usbd_descriptor.h" debugPath="../../../../../../components/libraries/usbd/app_usbd_descriptor.h" selected="0" top="186" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/app_usbd_core.h" debugPath="../../../../../../components/libraries/usbd/app_usbd_core.h" selected="0" top="195" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/class/hid/app_usbd_hid_types.h" debugPath="../../../../../../components/libraries/usbd/class/hid/app_usbd_hid_types.h" selected="0" top="80" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/class/hid/generic/app_usbd_hid_generic_desc.h" debugPath="../../../../../../components/libraries/usbd/class/hid/generic/app_usbd_hid_generic_desc.h" selected="0" top="60" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="122" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/class/hid/generic/app_usbd_hid_generic_internal.h" debugPath="../../../../../../components/libraries/usbd/class/hid/generic/app_usbd_hid_generic_internal.h" selected="0" top="103" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/app_usbd_types.h" debugPath="../../../../../../components/libraries/usbd/app_usbd_types.h" selected="0" top="26" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/app_usbd_request.h" debugPath="../../../../../../components/libraries/usbd/app_usbd_request.h" selected="0" top="282" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/app_usbd_langid.h" debugPath="../../../../../../components/libraries/usbd/app_usbd_langid.h" selected="0" top="273" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="207" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/app_usbd.h" debugPath="../../../../../../components/libraries/usbd/app_usbd.h" selected="0" top="192" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/mdk/system_nrf52840.h" debugPath="../../../../../../modules/nrfx/mdk/system_nrf52840.h" selected="0" top="9" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="332" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/hal/nrf_usbd.h" debugPath="../../../../../../modules/nrfx/hal/nrf_usbd.h" selected="0" top="308" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="161" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_error.h" debugPath="../../../../../../components/libraries/util/app_error.h" selected="0" top="145" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="816" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/mdk/nrf52840.h" debugPath="../../../../../../modules/nrfx/mdk/nrf52840.h" selected="0" top="799" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="10577" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/mdk/nrf52840_bitfields.h" debugPath="../../../../../../modules/nrfx/mdk/nrf52840_bitfields.h" selected="0" top="10549" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="160" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/usbd/class/hid/generic/app_usbd_hid_generic.c" debugPath="../../../../../../components/libraries/usbd/class/hid/generic/app_usbd_hid_generic.c" selected="0" top="143" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/queue/nrf_queue.c" debugPath="../../../../../../components/libraries/queue/nrf_queue.c" selected="0" top="195" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="341" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/queue/nrf_queue.h" debugPath="../../../../../../components/libraries/queue/nrf_queue.h" selected="0" top="315" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="vortex2_boot0" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" debugSearchFileMap="" fileDialogInitialDirectory="C:/Users/Administrator/Desktop/aaaaaaa/hid/nRF5_SDK_15.0.0_a53641a/examples/peripheral/vortex2_boot0" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>
